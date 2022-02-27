@@ -214,7 +214,7 @@ def start(update: Update, context: CallbackContext):
                      [
                         InlineKeyboardButton(
                              text="📍 Anime Chat",
-                             url="https://t.me/Kagesama_chat"),                    
+                             url="https://t.me/IAS_Chats"),                    
                         InlineKeyboardButton(
                              text="❓ Help & Commands ❓",
                              url="https://t.me/Generalesdeath_bot?start=help"),      
